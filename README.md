@@ -18,7 +18,7 @@ We are trying to help Tom, a Colorado board of elections employee conduct an ele
   * Raymon Anthony Doane: 11,606 3.1%
 * Diana DeGette won the election with a winning vote count of 272,892 votes and winning percentage of 73.8%
 
-![Analysis_image](analysis/election_analysis.png)
+![Analysis_image](analysis/election_analysis.PNG)
 
 ## Election - Audit Summary
 
